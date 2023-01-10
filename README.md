@@ -21,7 +21,7 @@
 ```
 
 ## Options
-See [component-level caching](http://ssr.vuejs.org/en/caching.html#component-level-caching) for mor information.
+See [component-level caching](https://v2.ssr.vuejs.org/guide/caching.html#component-level-caching) for mor information.
 
 ### `max`
 - default: `10000`
