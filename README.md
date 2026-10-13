@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository is archived. `@nuxtjs/component-cache` was built for Nuxt 2, which reached end of life on June 30, 2024.
+
 # Component Cache
 [![npm](https://img.shields.io/npm/dt/@nuxtjs/component-cache.svg?style=flat-square)](https://www.npmjs.com/package/@nuxtjs/component-cache)
 [![npm (scoped with tag)](https://img.shields.io/npm/v/@nuxtjs/component-cache/latest.svg?style=flat-square)](https://www.npmjs.com/package/@nuxtjs/component-cache)
